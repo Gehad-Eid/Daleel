@@ -11,6 +11,20 @@
 		B80B32162B2CB72100665814 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80B32152B2CB72100665814 /* ContentView.swift */; };
 		B80B32182B2CB72200665814 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B80B32172B2CB72200665814 /* Assets.xcassets */; };
 		B80B321B2B2CB72200665814 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B80B321A2B2CB72200665814 /* Preview Assets.xcassets */; };
+		B80B32252B2CC4D600665814 /* logIn.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80B32242B2CC4D600665814 /* logIn.swift */; };
+		B80B32272B2CF0DE00665814 /* ForgotPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80B32262B2CF0DE00665814 /* ForgotPasswordView.swift */; };
+		B80B32292B2CF10C00665814 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80B32282B2CF10C00665814 /* SignUpView.swift */; };
+		B80B322B2B2CF47500665814 /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80B322A2B2CF47500665814 /* HomeScreen.swift */; };
+		B80B322D2B2CF68000665814 /* ChangePassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80B322C2B2CF68000665814 /* ChangePassword.swift */; };
+		B80B322F2B2CFBD900665814 /* Map.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80B322E2B2CFBD900665814 /* Map.swift */; };
+		B80B32312B2CFC0000665814 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80B32302B2CFC0000665814 /* Profile.swift */; };
+		B80B32332B2CFE9C00665814 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80B32322B2CFE9C00665814 /* Home.swift */; };
+		B80B32352B2D81BE00665814 /* Chat.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80B32342B2D81BE00665814 /* Chat.swift */; };
+		B80B32372B2D837800665814 /* Route.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80B32362B2D837800665814 /* Route.swift */; };
+		B80B32392B2D844300665814 /* Report.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80B32382B2D844300665814 /* Report.swift */; };
+		B80B323B2B2D846200665814 /* Campaigns.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80B323A2B2D846200665814 /* Campaigns.swift */; };
+		B80B32432B2DBFEB00665814 /* UserChatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80B32422B2DBFEB00665814 /* UserChatsView.swift */; };
+		B811AFC32B2E11030027C467 /* edit.swift in Sources */ = {isa = PBXBuildFile; fileRef = B811AFC22B2E11030027C467 /* edit.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +33,20 @@
 		B80B32152B2CB72100665814 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B80B32172B2CB72200665814 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B80B321A2B2CB72200665814 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B80B32242B2CC4D600665814 /* logIn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = logIn.swift; sourceTree = "<group>"; };
+		B80B32262B2CF0DE00665814 /* ForgotPasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgotPasswordView.swift; sourceTree = "<group>"; };
+		B80B32282B2CF10C00665814 /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
+		B80B322A2B2CF47500665814 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
+		B80B322C2B2CF68000665814 /* ChangePassword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangePassword.swift; sourceTree = "<group>"; };
+		B80B322E2B2CFBD900665814 /* Map.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Map.swift; sourceTree = "<group>"; };
+		B80B32302B2CFC0000665814 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
+		B80B32322B2CFE9C00665814 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		B80B32342B2D81BE00665814 /* Chat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chat.swift; sourceTree = "<group>"; };
+		B80B32362B2D837800665814 /* Route.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Route.swift; sourceTree = "<group>"; };
+		B80B32382B2D844300665814 /* Report.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Report.swift; sourceTree = "<group>"; };
+		B80B323A2B2D846200665814 /* Campaigns.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Campaigns.swift; sourceTree = "<group>"; };
+		B80B32422B2DBFEB00665814 /* UserChatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserChatsView.swift; sourceTree = "<group>"; };
+		B811AFC22B2E11030027C467 /* edit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = edit.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,10 +79,24 @@
 		B80B32122B2CB72100665814 /* Daleel */ = {
 			isa = PBXGroup;
 			children = (
-				B80B32132B2CB72100665814 /* DaleelApp.swift */,
+				B80B322C2B2CF68000665814 /* ChangePassword.swift */,
 				B80B32152B2CB72100665814 /* ContentView.swift */,
+				B80B32132B2CB72100665814 /* DaleelApp.swift */,
+				B80B32262B2CF0DE00665814 /* ForgotPasswordView.swift */,
+				B80B32322B2CFE9C00665814 /* Home.swift */,
+				B80B322A2B2CF47500665814 /* HomeScreen.swift */,
+				B80B32242B2CC4D600665814 /* logIn.swift */,
+				B80B322E2B2CFBD900665814 /* Map.swift */,
+				B80B32302B2CFC0000665814 /* Profile.swift */,
+				B80B32282B2CF10C00665814 /* SignUpView.swift */,
+				B80B32422B2DBFEB00665814 /* UserChatsView.swift */,
+				B80B32342B2D81BE00665814 /* Chat.swift */,
+				B80B32362B2D837800665814 /* Route.swift */,
+				B80B32382B2D844300665814 /* Report.swift */,
+				B80B323A2B2D846200665814 /* Campaigns.swift */,
 				B80B32172B2CB72200665814 /* Assets.xcassets */,
 				B80B32192B2CB72200665814 /* Preview Content */,
+				B811AFC22B2E11030027C467 /* edit.swift */,
 			);
 			path = Daleel;
 			sourceTree = "<group>";
@@ -137,8 +179,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B80B32252B2CC4D600665814 /* logIn.swift in Sources */,
+				B80B323B2B2D846200665814 /* Campaigns.swift in Sources */,
 				B80B32162B2CB72100665814 /* ContentView.swift in Sources */,
+				B80B32332B2CFE9C00665814 /* Home.swift in Sources */,
+				B80B322F2B2CFBD900665814 /* Map.swift in Sources */,
+				B80B32272B2CF0DE00665814 /* ForgotPasswordView.swift in Sources */,
+				B80B32392B2D844300665814 /* Report.swift in Sources */,
 				B80B32142B2CB72100665814 /* DaleelApp.swift in Sources */,
+				B80B32352B2D81BE00665814 /* Chat.swift in Sources */,
+				B80B322B2B2CF47500665814 /* HomeScreen.swift in Sources */,
+				B80B32292B2CF10C00665814 /* SignUpView.swift in Sources */,
+				B811AFC32B2E11030027C467 /* edit.swift in Sources */,
+				B80B32372B2D837800665814 /* Route.swift in Sources */,
+				B80B32312B2CFC0000665814 /* Profile.swift in Sources */,
+				B80B322D2B2CF68000665814 /* ChangePassword.swift in Sources */,
+				B80B32432B2DBFEB00665814 /* UserChatsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,6 +328,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Daleel/Preview Content\"";
+				DEVELOPMENT_TEAM = N5C4229YSA;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -284,7 +341,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = none.Daleel;
+				PRODUCT_BUNDLE_IDENTIFIER = Daleell.Daleel;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -300,6 +357,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Daleel/Preview Content\"";
+				DEVELOPMENT_TEAM = N5C4229YSA;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -312,7 +370,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = none.Daleel;
+				PRODUCT_BUNDLE_IDENTIFIER = Daleell.Daleel;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
